@@ -1,4 +1,4 @@
-module Probelm2 where
+module Problem2 where
 
 sumEvenFibsLE :: (Integral a) => a -> a
 sumEvenFibsLE n = let sumFibHelper acc f0 f1 max
